@@ -9,11 +9,11 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 <table>
   <tr>
     <td>
-* 🌍  I'm based in Surat, Gujarat, India
-* ✉️  You can contact me at [khenidarshit@gmail.com](mailto:khenidarshit@gmail.com)
-* 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Interesting and challenging projects
-* ⚡  I love to explore the world and curious about learning new things.
+* 🌍  I'm based in Surat, Gujarat, India<br>
+* ✉️  You can contact me at [khenidarshit@gmail.com](mailto:khenidarshit@gmail.com)<br>
+* 🧠  I'm learning Backend Development<br>
+* 🤝  I'm open to collaborating on Interesting and challenging projects<br>
+* ⚡  I love to explore the world and curious about learning new things.<br>
     </td>
     <td>
       <a href="https://app.daily.dev/darshit99"><img src="https://api.daily.dev/devcards/dd4bc961302c4a3d97dba9538b479a5c.png?r=06g" width="400" alt="Darshit's Dev Card"/></a>
