@@ -5,14 +5,16 @@ Software Developer Engineer
 ---------------------------
 ![](https://komarev.com/ghpvc/?username=Darshit-dev&color=brightgreen&style=flat) \
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
-
+<hr>
+<a href="https://app.daily.dev/darshit99"><img src="https://api.daily.dev/devcards/dd4bc961302c4a3d97dba9538b479a5c.png?r=06g" width="400" alt="Darshit's Dev Card"/></a>
 * 🌍  I'm based in Surat, Gujarat, India
 * ✉️  You can contact me at [khenidarshit@gmail.com](mailto:khenidarshit@gmail.com)
 * 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on Interesting and challenging projects
 * ⚡  I love to explore the world and curious about learning new things.
 
-<hr>
+
+
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Darshit-dev&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Darshit-dev&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
@@ -40,4 +42,3 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/darshit99"><img src="https://api.daily.dev/devcards/dd4bc961302c4a3d97dba9538b479a5c.png?r=06g" width="400" alt="Darshit's Dev Card"/></a>
