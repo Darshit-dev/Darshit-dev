@@ -40,3 +40,4 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/darshit99"><img src="https://api.daily.dev/devcards/dd4bc961302c4a3d97dba9538b479a5c.png?r=06g" width="400" alt="Darshit's Dev Card"/></a>
