@@ -6,7 +6,7 @@ Software Developer Engineer
 ![](https://komarev.com/ghpvc/?username=Darshit-dev&color=brightgreen&style=flat) \
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
 <hr>
-<table>
+<table style="border:0">
   <tr>
     <td>
 * 🌍  I'm based in Surat, Gujarat, India<br>
