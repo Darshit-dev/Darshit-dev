@@ -9,8 +9,8 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 <table style="border:0">
   <tr>
     <td>
-* 🌍  I'm based in Surat, Gujarat, India<br>
-* ✉️  You can contact me at [khenidarshit@gmail.com](mailto:khenidarshit@gmail.com)<br>
+* 🌍  I'm based in Bengaluru,Karnataka India<br>
+* ✉️  You can contact me at [khenidarshitz@gmail.com](mailto:khenidarshitz@gmail.com)<br>
 * 🧠  I'm learning Backend Development<br>
 * 🤝  I'm open to collaborating on Interesting and challenging projects<br>
 * ⚡  I love to explore the world and curious about learning new things.<br>
